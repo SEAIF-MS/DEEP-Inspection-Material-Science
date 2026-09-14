@@ -1,7 +1,5 @@
 # DEEP Inspection for Materials Science
 
-General intro to this course. More descriptions
-
 <!--
 :::{prereq}
 
