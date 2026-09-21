@@ -1,5 +1,20 @@
 # DEEP Inspection for Materials Science
 
+
+Inspection and characterization of materials are fundamental for understanding material properties, ensuring quality control, and accelerating materials development and advanced manufacturing. However, conventional approaches often require extensive expert analysis of complex images, making them time-consuming and difficult to scale. With the rapid growth of high-resolution imaging techniques, deep learning-based methods provide powerful solutions for automated materials image analysis by learning meaningful visual features for tasks such as defect classification, microstructure recognition, process monitoring, and intelligent quality assessment.
+
+
+
+This workshop offers a focused, hands-on introduction to deep learning for visual inspection in materials science. Using the Severstal Steel Defect Detection dataset as a concrete, running example, participants will follow a complete analysis pipeline, from raw image data through model training to interpretable results. The techniques covered are deliberately chosen for their breadth of applicability: while the examples are grounded in industrial quality control, the same approaches translate directly to defect detection in electron microscopy, anomaly identification in medical imaging, and structural characterization across a wide range of domains.
+
+
+:::{prereq}
+- Basic Python programming (loops, functions, libraries)
+- Familiarity with NumPy or similar data manipulation tools is helpful but not required
+- No prior deep learning experience necessary – core concepts will be introduced from scratch
+:::
+
+
 <!--
 :::{prereq}
 
