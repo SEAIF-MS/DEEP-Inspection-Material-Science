@@ -77,7 +77,7 @@ cp -r /projappl/project_465002387/DEEP_Inspection_Material_Science/notebooks .
 
 
 ## 2. Setup in Local Computer
-
+If you want to use your local computer for the tutorial part of the workshop, you will need to install the required libraries as described below.
 
 ### Installing Python
 
@@ -145,10 +145,14 @@ This should output the versions of all required packages without giving errors. 
 
 Alternatively, you can run tutorials use [Google Colab](https://colab.research.google.com/).
 
-Go to Google Colab and sign in with your Google account. Most of the required packages are already pre-installed. Note that google colab uses jupyter notebook instead of Jupyter Lab.
+Go to Google Colab and sign in with your Google account. Most of the required packages are already pre-installed. Note that Google Colab uses Jupyter Notebook rather than JupyterLab.
 
-In top menu, click **File → upload notebook**.
-- XX
+The prepared dataset and notebooks for this workshop can be downloaded from the following link: [workshop materials](https://uppsalauniversitet-my.sharepoint.com/:f:/g/personal/marzieh_saeedimasine_uppmax_uu_se/IgC95jx7o7ZlS7qiSxkQ0UyvAc4RoIzzJXtkeOQOUEnDN7k?e=1tnauL)
+
+Download the workshop materials to your computer. Then:
+Upload the dataset to your Google Drive so that it can be accessed from Google Colab.
+Upload the notebook (.ipynb) files to Google Colab and open them there.
+Mount your Google Drive in Colab when prompted so that the notebooks can access the uploaded dataset.
 
 
 ## 4. Downloading Datasets
