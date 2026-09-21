@@ -183,7 +183,8 @@ This should output the versions of all required packages without giving errors. 
 
 ::::
 
-**Alternatively** you can use [Google colab](https://colab.research.google.com/). If you open a jupyter notebook here, most of the required packages are already pre-installed. Note that google colab uses jupyter notebook instead of Jupyter Lab.
+**Alternatively** you can use [Google colab](https://colab.research.google.com/). If you open a jupyter notebook here, most of the required packages are already pre-installed. Note that google colab uses jupyter notebook instead of Jupyter Lab. The prepared dataset and notebooks for this workshop can be downloaded from the following link: [material](https://uppsalauniversitet-my.sharepoint.com/:f:/g/personal/marzieh_saeedimasine_uppmax_uu_se/IgC95jx7o7ZlS7qiSxkQ0UyvAc4RoIzzJXtkeOQOUEnDN7k?e=1tnauL)
+
 
 ## Downloading the required datasets
 Severstal: Steel Defect Detection is a dataset from the 2019 Kaggle Challenge [Severstal](https://www.kaggle.com/c/severstal-steel-defect-detection), designed for surface defect detection tasks, including multiclass object detection, instance segmentation, and semantic segmentation.
