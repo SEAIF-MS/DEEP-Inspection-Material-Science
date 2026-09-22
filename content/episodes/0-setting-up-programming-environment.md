@@ -20,7 +20,7 @@ Below are the detailed settings for each section:
 	- Partition: `dev-g`
 - **Resources**
 	- Number of CPU cores: `8`
-	- Memory (GiB): `8`
+	- Memory (GiB): `16`
 	- Number of GPUs: `1`
 	- Time: `3:00:00`
 - **Settings**
