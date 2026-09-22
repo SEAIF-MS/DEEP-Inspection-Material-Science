@@ -15,7 +15,6 @@ Below are the detailed settings for each section:
 
 :::{note}
 - **Setup your environment**
-	- Reservation: `workshopvenv`
 	- Project: `project_465002387`
 	- Partition: `dev-g`
 - **Resources**
