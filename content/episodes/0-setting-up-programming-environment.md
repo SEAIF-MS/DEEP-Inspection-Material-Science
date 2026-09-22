@@ -73,6 +73,11 @@ cd <my_name>
 cp -r /projappl/project_465002387/DEEP_Inspection_Material_Science/notebooks .
 ```
 
+Create the matching checkpoint directory in your home folder, replacing `<my_name>` with the directory name you used above:
+```shell
+mkdir -p "$HOME/.jupyter_checkpoints/DEEP_Inspection_Material_Science/<my_name>/notebooks"
+```
+This lets Jupyter save notebook checkpoints in your home folder and avoids permission errors caused by falling back to `/tmp`.
 
 
 ## 2. Setup in Local Computer
