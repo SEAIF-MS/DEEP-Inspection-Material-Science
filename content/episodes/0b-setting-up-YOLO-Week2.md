@@ -166,7 +166,7 @@ Upload the dataset to your Google Drive so that it can be accessed from Google C
 Upload the notebook (.ipynb) files to Google Colab and open them there.
 Mount your Google Drive in Colab when prompted so that the notebooks can access the uploaded dataset.
 
-Note that for the notebook for segmentation task, the training dataset is directly downloaded using `git clone https://github.com/abin24/Magnetic-tile-defect-datasets.`
+Note that for the segmentation task, the training dataset is directly downloaded using `git clone https://github.com/abin24/Magnetic-tile-defect-datasets.`
 
 
 ## 4. Training Datasets
