@@ -39,6 +39,7 @@ This workshop offers a focused, hands-on introduction to deep learning for visua
 :maxdepth: 1
 
 episodes/0-setting-up-programming-environment
+episodes/0b-setting-up-YOLO-Week2
 ```
 
 
